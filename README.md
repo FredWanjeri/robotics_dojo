@@ -1,2 +1,2 @@
-# robotics_dojo
-This repo contains code and resources for Auracle bot for Robotics dojo 2026
+# Robotics_dojo
+This repo contains code and resources for Auracle team, Robotics dojo 2026.
